@@ -3,6 +3,7 @@
 Um servidor de echo escrito em c++ com socket.
 
 ## Run
-
+```sh
 g++ src/main.cpp -o main
 ./main
+```

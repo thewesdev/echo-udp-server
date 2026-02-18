@@ -4,4 +4,4 @@ Um servidor de echo escrito em c++ com socket.
 
 ## Run
 
-g++ main.cpp -o main
+g++ src/main.cpp -o main
